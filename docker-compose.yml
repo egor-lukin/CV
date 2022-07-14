@@ -1,0 +1,17 @@
+version: "3.7"
+
+x-app-volumes: &app-volumes
+  - .:/app:cached
+  - ~/.bash_history:/root/.bash_history
+  - bundle_cache:/bundle_cache
+
+services:
+  app:
+    build: .
+    command: "jekyll serve --host 0.0.0.0"
+    volumes: *app-volumes
+    ports:
+      - 4000:4000
+
+volumes:
+  bundle_cache:
