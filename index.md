@@ -6,7 +6,7 @@ title: Lukin Egor
 Full-Stack Software Engineer
 
 <div id="webaddress">
-  <a href="https://github.com/LukinEgor">Github</a>
+  <a href="https://github.com/LukinEgor" target="__blank">Github</a>
 </div>
 
 ## About
