@@ -15,6 +15,7 @@ RUN apt update && \
     texlive-fonts-recommended \
     texlive-extra-utils \
     texlive-latex-extra \
+    wkhtmltopdf \
     shared-mime-info
 
 RUN mkdir /app

@@ -32,7 +32,8 @@ body {
 	line-height: 1;
 }
 ol, ul {
-	list-style: none;
+	padding-left: 20px;
+	/* list-style: none; */
 }
 blockquote, q {
 	quotes: none;
@@ -66,7 +67,7 @@ p {
 	left: 28%;
 	margin-bottom: 0.2em;
 	margin-right: 0;
-	width: 70%;
+	width: 65%;
 }
 
 code {
@@ -79,7 +80,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -11%;
+	left: -20%;
 }
 
 
@@ -100,8 +101,8 @@ ul {
 
 li {
 	/*second line indent*/
-	padding-left: 1.25em;
-	text-indent: -1.25em;
+	/* padding-left: 1.25em; */
+	/* text-indent: -1.25em; */
 	/*color: #777;*/
 }
 
@@ -135,13 +136,12 @@ h1+p {
 h2 {
 	font-size: 1.1em;
 	color: #a00;
-	margin-top: 2em;
+	margin-top: 1em;
 	position: relative;
 	top: 1.2em;
 	text-align: right;
-	width: 18%;
+	width: 1%;
 }
-
 
 h3 {
 	font-size: 1em;
@@ -188,7 +188,3 @@ strong {
 	display: none;
 	visibility: hidden;
 }
-
-
-
-
