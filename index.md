@@ -119,7 +119,7 @@ Stack:
 - Infrastructure: Docker, Ansible
 
 `Feb 2015 - May 2016`
-__Mobile Fitness Platform__, Software Engineer / Co-founder
+__Mobile Fitness Platform__, Developer / Co-founder
 
 Achievements:
 - Developed hardware platform that getting data from exercise bikes and gave API for mobile apps
@@ -129,24 +129,24 @@ Stack:
 - C, C++, Arduino
 - C#, Unity
 
-<a href="https://www.youtube.com/watch?v=tJYOnAQ17LU">Our Prototype</a>
+<a href="https://www.youtube.com/watch?v=tJYOnAQ17LU" target="__blank">Our Prototype</a>
 
 `Mar 2015 - Mar 2016`
-__Freelance__, Software Engineer
+__Freelance__, C# Developer
 
 Achievements:
-- Developed frontend application for <a href="http://i-interra.ru/oborudovanie/interaktivnaya-kniga/">Interactive Book</a> project.
+- Developed frontend application for <a href="http://i-interra.ru/oborudovanie/interaktivnaya-kniga/" target="__blank">Interactive Book</a> project.
 
 Stack:
 - C#, WPF
 
 ## OSS
 
-__<a href="https://github.com/LukinEgor/django-site">Lesswrong.ru</a>__, Migration <a href="https://lesswrong.ru">Lesswrong.ru</a> site to new Django/Wagtail Engine.
+__<a href="https://github.com/LukinEgor/django-site" target="__blank">Lesswrong.ru</a>__, Migration <a href="https://lesswrong.ru" target="__blank">Lesswrong.ru</a> site to new Django/Wagtail Engine.
 
-__<a href="https://github.com/LukinEgor/k3s-platform">K3s Platform</a>__, Platform for setup self-hosted k8s infrastructure on Hetzner.
+__<a href="https://github.com/LukinEgor/k3s-platform" target="__blank">K3s Platform</a>__, Platform for setup self-hosted k8s infrastructure on Hetzner.
 
-__<a href="https://github.com/LukinEgor/reverso-emacs">Reverso Emacs</a>__, Small package for using Reverso Context search inside Emacs.
+__<a href="https://github.com/LukinEgor/reverso-emacs" target="__blank">Reverso Emacs</a>__, Small package for using Reverso Context search inside Emacs.
 
 
 ## Courses
