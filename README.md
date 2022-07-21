@@ -3,3 +3,6 @@
 ### Commands:
 
 - Run server: make up
+
+### Link
+PDF - https://github.com/LukinEgor/CV/raw/master/cv.pdf
