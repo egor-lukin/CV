@@ -10,24 +10,25 @@ Full-Stack Software Engineer
 </div>
 
 ## About
-Experienced Software Engineer focused on solving business problems. I have expertise in backend (mainly in Ruby on Rails framework), but also I have frontend skills with React and Redux based architecture. Also I solved some operations tasks like setup cloud services by Terraform, maintained Kubernetes clusters, setup CI/CD pipelines.
+Experienced Software Engineer focused on solving business problems. I want to do our world better by creating stable and reliable software systems. I like to study new technologies but I prefer to use old and reliable (boring) stack in production.
 
-I have some experience with Ruby, Javascript, Python, Clojure, C#, F#, C++, C.
-
-I'm a fan of Functional Programming and Emacs.
+My skills:
+- Backend: Ruby, RoR, Postgres
+- DevOps: Kubernetes, Terraform, CI/CD
+- Frontend: React, Redux
 
 English - B1 level.
 
 ## Experience
 
 `Apr 2020 - Present`
-__<a href="https://simcase.tech/" target="__blank">Simcase</a>__, Full-Stack Software Engineer
+__<a href="https://simcase.tech/" target="__blank">Simcase</a>__, Tech Lead / Full-Stack Software Engineer
 
 About company:
-- Product team developing applications for Ecwid E-commerce platform.
+- Small product team developing applications for Ecwid E-commerce platform.
 
 Achievements:
-- Developed and launched 3 e-commerce applications.
+- Designed, developed and released 3 e-commerce applications.
 - Created a new database model and backend API.
 - Created unified frontend architecture and javascript SDK that increased new apps developing speed.
 - Developed a new infrastructure platform based on Kubernetes, added the possibility to create a new developer's stand via button click. Set up CI/CD pipelines for existing apps and for new ones. 
@@ -98,7 +99,7 @@ Achievements:
 - Created new and supported legacy Ecwid e-commerce apps.
 
 Stack:
-- Frontend: React .
+- Frontend: React.
 - Backend: Ruby on Rails.
 - Infrastructure: Docker, Ansible.
 
@@ -126,11 +127,7 @@ Stack:
 
 ## OSS
 
-__<a href="https://github.com/LukinEgor/django-site" target="__blank">Lesswrong.ru</a>__, Migration <a href="https://lesswrong.ru" target="__blank">Lesswrong.ru</a> site to new Django/Wagtail Engine.
-
-__<a href="https://github.com/LukinEgor/k3s-platform" target="__blank">K3s Platform</a>__, Platform for setup self-hosted k8s infrastructure on Hetzner.
-
-__<a href="https://github.com/LukinEgor/reverso-emacs" target="__blank">Reverso Emacs</a>__, Small package for using Reverso Context search inside Emacs.
+__<a href="https://github.com/LukinEgor/django-site" target="__blank">Lesswrong.ru</a>__, Took part in <a href="https://lesswrong.ru" target="__blank">Lesswrong.ru</a> site migration to new Django/Wagtail Engine.
 
 
 ## Courses
