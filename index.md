@@ -10,7 +10,7 @@ Full-Stack Software Engineer
 </div>
 
 ## About
-Experienced Software Engineer focused on solving business problems. I want to do our world better by creating stable and reliable software systems. I like to study new technologies but I prefer to use old and boring stack in production.
+Experienced Software Engineer focused on solving business problems. I want to make our world better by creating stable and reliable software systems. I like to study new technologies but I prefer to use old and boring stack in production.
 
 My skills:
 - Backend: Ruby, RoR, Postgres
