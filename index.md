@@ -1,27 +1,40 @@
 ---
 layout: cv
-title: Lukin Egor 
+title: Egor Lukin
 ---
-# Lukin Egor
-Full-Stack Software Engineer
+# Egor Lukin
+Software Engineer
 
 <div id="webaddress">
-  <a href="https://github.com/LukinEgor" target="__blank">Github</a>
+  <a href="https://github.com/egor-lukin" target="__blank">Github</a>
 </div>
 
 ## About
 Experienced Software Engineer focused on solving business problems. I want to make our world better by creating stable and reliable software systems. I like to study new technologies but I prefer to use old and boring stack in production.
 
 My skills:
-- Backend: Ruby, RoR, Postgres
+- Backend: Ruby/RoR, Golang
+- Databases: Postgres, Redis
 - DevOps: Kubernetes, Terraform, CI/CD
-- Frontend: React, Redux
 
 English - B1 level.
 
 ## Experience
 
-`Apr 2020 - Present`
+`Aug 2022 - Apr 2023`
+__<a href="https://evilmartians.com/" target="__blank">Evil Martians</a>__, Backend Engineer
+
+Achievements:
+- Took part in developing multiple SaaS projects.
+- Contributed to OSS.
+
+Most projects info on under NDA.
+
+Stack:
+- Backend: Ruby on Rails, Sidekiq.
+- Databases: Postgres, Redis.
+
+`Apr 2020 - Jul 2022`
 __<a href="https://simcase.tech/" target="__blank">Simcase</a>__, Tech Lead / Full-Stack Software Engineer
 
 About company:
@@ -125,19 +138,24 @@ Achievements:
 Stack:
 - C#, WPF.
 
+## Side Projects
+
+__<a href="https://www.mp-autopilot.ru/" target="__blank">MP Autopilot</a>__, SaaS for marketplace analitics.
+
+__<a href="https://www.ecwid.com/apps/marketing/telegram-storefront" target="__blank">Telegram Storefront </a>__, Application for running Ecwid E'commerce shop in the Telegram.
+
 ## OSS
 
-__<a href="https://github.com/LukinEgor/django-site" target="__blank">Lesswrong.ru</a>__, Took part in <a href="https://lesswrong.ru" target="__blank">Lesswrong.ru</a> site migration to new Django/Wagtail Engine.
-
+__<a href="https://github.com/evilmartians/activerecord-slotted_counters" target="__blank">AR slotted counters support </a>__, Active Record extension providing slotted counters support.
 
 ## Courses
 
 `Oct 2021 - Nov 2021`
-__<a href="https://github.com/LukinEgor/Awesome-Task-Exchange-System/blob/master/certificate.png">Asynchronous Architecture</a>__
+__Asynchronous Architecture__
 
 
 `Jul 2020 - Jan 2021`
-__<a href="https://github.com/LukinEgor/LukinEgor_platform">Instrastructure platform based on Kubernetes</a>__
+__Instrastructure platform based on Kubernetes__
 
 ## Education
 
