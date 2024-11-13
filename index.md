@@ -14,6 +14,7 @@ Experienced Software Engineer focused on solving business problems. I want to ma
 
 My skills:
 - Backend: Ruby/RoR, Golang
+- Frontend: React, Hotwire stack
 - Databases: Postgres, Redis
 - DevOps: Kubernetes, Terraform, CI/CD
 
@@ -21,8 +22,26 @@ English - B1 level.
 
 ## Experience
 
+`Oct 2023 - present`
+__<a href="https://turbologo.com/" target="__blank">Turbologo</a>__, Senior Software Engineer
+
+About company:
+- AI logo maker tool for business owners, start-ups, and freelancers
+
+Achievements:
+- Migrated the application from self-hosted servers to a Kubernetes environment, implemented monitoring and logging systems.
+- Setup CI/CD processes based on Jenkins
+- Introduced tests, dockerized application
+- Implemented recurrent subscriptions
+- Integrated LLM to the application
+
+Stack:
+- Backend: Ruby on Rails, Sidekiq.
+- Databases: Postgres, Redis.
+- Infra: Prometheus, Loki, Kubernetes, Digital Ocean, Jenkins, AWS 
+
 `Aug 2022 - Apr 2023`
-__<a href="https://evilmartians.com/" target="__blank">Evil Martians</a>__, Backend Engineer
+__<a href="https://evilmartians.com/" target="__blank">Evil Martians</a>__, Software Engineer
 
 Achievements:
 - Took part in developing multiple SaaS projects.
@@ -87,34 +106,6 @@ Stack:
 - Frontend: React, Redux.
 - Database: Postgres.
 - Infrastructure: Nginx, Ansible.
-
-`Oct 2017 - Jan 2018`
-__<a href="https://simbirsoft.com/" target="__blank">Simbirsoft</a>__, Full-Stack Software Engineer
-
-About project:
-- Internal time tracker service.
-
-Achievements:
-- Improved backend API.
-- Created WebSocket API for getting real-time data and integrated it with the frontend.
-- Improved redux-based frontend architecture.
-- Setup infrastructure, dockerized node js application.
-
-Stack:
-- Backend: NodeJs, Postgres.
-- Frontend: React, Redux.
-- Infrastructure: Docker, Ansible, Nginx.
-
-`May 2016 - Aug 2017`
-__<a href="https://simcase.tech/" target="__blank">Simcase</a>__, Full-Stack Software Engineer
-
-Achievements:
-- Created new and supported legacy Ecwid e-commerce apps.
-
-Stack:
-- Frontend: React.
-- Backend: Ruby on Rails.
-- Infrastructure: Docker, Ansible.
 
 `Feb 2015 - May 2016`
 __Mobile Fitness Platform__, Developer / Co-founder
